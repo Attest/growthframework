@@ -1,5 +1,5 @@
 export default {
-  github: 'https://github.com/askattest',
+  github: 'https://github.com/Attest/growthframework',
   titleSuffix: ' – Engineering Growth Framework',
   logo: (
     <>
