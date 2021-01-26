@@ -29,14 +29,14 @@ This is the source of truth for the Engineering Growth Framework. If you would l
 ##### Step One:
 Navigate to the page of the framework you would like to edit, and click `Edit this page on GitHub`.
 
-![](/Stepone.png)
+![](/stepone.png)
 
 ##### Step Two:
 Click the edit button on GitHub
 
-![](/Steptwo.png)
+![](/steptwo.png)
 
 ##### Step Three:
 Make your change. Write a short description of the changes you have made in 'Commit message'. Then commit! 
 
-![](/Stepthree.png)
+![](/stepthree.png)
