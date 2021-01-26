@@ -15,7 +15,7 @@ Our growth framework is split into two sections; Delivery and Approach. This bal
 1. **What is necessary for a team to deliver on their specified purpose**
 2. **To what extent an individual can impact the team’s delivery**
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/45ef6d35-b24e-4c45-8ad3-30aa1fd9a807/Untitled.png)
+![](/deliveryapproach.png)
 
 By thinking about Delivery and Approach and taking into account feedback throughout the last year on our current growth framework, we've been able to redefine and make a lot of expectations clearer, while making big improvements 🙌. 
 
@@ -29,14 +29,14 @@ This is the source of truth for the Engineering Growth Framework. If you would l
 ##### Step One:
 Navigate to the page of the framework you would like to edit, and click `Edit this page on GitHub`.
 
-![](../public/StepOne.png)
+![](/Stepone.png)
 
 ##### Step Two:
 Click the edit button on GitHub
 
-![](../public/StepTwo.png)
+![](/Steptwo.png)
 
 ##### Step Three:
 Make your change. Write a short description of the changes you have made in 'Commit message'. Then commit! 
 
-![](../public/StepThree.png)
+![](/Stepthree.png)
